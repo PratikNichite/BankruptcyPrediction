@@ -31,28 +31,4 @@ Fork the repository 📌
 
 ---
 
-## 📩 Contact Information
-For questions or collaboration, reach out to:
-
-1. Sowjanya
-  📧 [Email]
-  🔗 GitHub: [GitHub Profile]
-
-2. Saviour
-  📧 curiosity2401@gmail.com
-  🔗 GitHub: [GitHub Profile]
-
-3. Shetharsh
-  📧 harsheth97@gmail.com
-  🔗 GitHub: https://github.com/shetharsh24
-
-4. S Syed Arsh
-  📧 learned.acumen@gmail.com
-  🔗 GitHub: [GitHub Profile]
-
-5. Pratik Nichite
-  📧 pnichite77@gmail.com
-  🔗 GitHub: https://github.com/PratikNichite
-
-
 ⭐ If you find this project useful, please consider starring it on GitHub! ⭐
